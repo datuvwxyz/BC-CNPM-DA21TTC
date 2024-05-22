@@ -11,9 +11,9 @@ Nguyễn Mai Duy Khoa - 110121211 - Member - QA <br>
 #### Mô tả về dự án sẽ thực hiện trong báo cáo này: 
 
 # TRANG WEB - HỆ THỐNG QUẢN LÝ BLOG 
-
 <pre>
   Front-end:
+  
     Mô tả: sử dụng EJS (Embedded JavaScript) để thiết kế giao diện, axios để lấy dữ liệu từ MonggoDB bằng Node.js và Express
           
   -- Đăng nhập / đăng ký
@@ -36,7 +36,7 @@ Nguyễn Mai Duy Khoa - 110121211 - Member - QA <br>
 
     + Tìm kiếm danh sách các blog
 
-  #### Back-end:
+   Back-end:
   
      Mô tả: sử dụng Node.js và Express để lấy dữ liệu từ monggoDB theo mô hình ME(N)N stack (với view là front-end EJS (Embedded JavaScript))
   
