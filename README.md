@@ -11,37 +11,9 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
 #### Mô tả về dự án sẽ thực hiện trong báo cáo này: 
 
 # ỨNG DỤNG - QUẢN LÝ BÁN HÀNG ĐIỆN TỬ 
-<pre>
-  Front-end:
-  
-    Mô tả: sử dụng EJS (Embedded JavaScript) để thiết kế giao diện, axios để lấy dữ liệu từ MonggoDB bằng Node.js và Express
-          
-  -- Đăng nhập / đăng ký
 
-  -- Quyền Admin: 
-  
-    + Trang chủ
+### CÁC CÔNG VIỆC CẦN LÀM:
 
-    + Được quyền chỉnh sửa nội dung của các blog
-  
-    + Trang liên hệ
 
-  -- Quyền Users:
 
-    + Trang chủ
-  
-    + Trang đăng nhập / đăng ký tài khoản
-
-    + Rating / comments các bài blog
-
-    + Tìm kiếm danh sách các blog
-
-   Back-end:
-  
-     Mô tả: sử dụng Node.js và Express để lấy dữ liệu từ monggoDB theo mô hình ME(N)N stack (với view là front-end EJS (Embedded JavaScript))
-  
-    - Lấy danh sách các bài viết, thêm bài viết, cập nhật bài viết, danh sách bài viết, thêm thông báo.
-
-    - Lấy danh sách tin tức.
-</pre>
 
