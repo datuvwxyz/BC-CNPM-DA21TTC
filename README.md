@@ -14,6 +14,8 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
 
 ### CÁC CÔNG VIỆC CẦN LÀM:
 
+ - Hoàn thành thiết kế giao diện trang dashboard bằng Figma [x]
+
 
 
 
