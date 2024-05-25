@@ -14,6 +14,5 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
 
 ### CÁC CÔNG VIỆC CẦN LÀM:
 
-<pre>
-  - [x] Hoàn thành thiết kế giao diện trang khách hàng bằng Figma
-</pre>
+- [x] Hoàn thành thiết kế giao diện trang khách hàng bằng Figma
+
