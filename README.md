@@ -11,3 +11,9 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
 #### Mô tả về dự án sẽ thực hiện trong báo cáo này: 
 
 # ỨNG DỤNG - QUẢN LÝ BÁN HÀNG ĐIỆN TỬ 
+
+### CÁC CÔNG VIỆC CẦN LÀM:
+
+<pre>
+  [x] Hoàn thành thiết kế giao diện trang khách hàng bằng Figma
+</pre>
