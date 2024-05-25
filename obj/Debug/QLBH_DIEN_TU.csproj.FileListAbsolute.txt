@@ -1,0 +1,300 @@
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.exe.config
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.exe
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.pdb
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Form1.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.CopyComplete
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.exe
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.pdb
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Dashboard.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_TrangChu.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_DonHang.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_KhachHang.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_SanPham.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_NhanVien.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_NhaCungCap.resources
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\QLBH_DIEN_TU\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_ThongKe.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.exe.config
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.exe
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.pdb
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Guna.UI2.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.AssemblyReference.cache
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.ResolveComReference.cache
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Dashboard.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Form1.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Properties.Resources.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_DonHang.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_KhachHang.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_NhaCungCap.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_NhanVien.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_SanPham.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_ThongKe.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_TrangChu.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.GenerateResource.cache
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.CoreCompileInputs.cache
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.CopyComplete
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.exe
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.pdb
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Report_indonhang.rdlc
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\EnvDTE.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\stdole.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\Microsoft.MSXML.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\EnvDTE.xml
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.indonhang.resources
+D:\Lập trình trên Windows\QLBH1\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_Phieunhap.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Report_indonhang.rdlc
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.exe.config
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.exe
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.pdb
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Guna.UI2.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\EnvDTE.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\stdole.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.MSXML.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\EnvDTE.xml
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.AssemblyReference.cache
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.ResolveComReference.cache
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Dashboard.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Form1.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.indonhang.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Properties.Resources.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_DonHang.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_KhachHang.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_NhaCungCap.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_NhanVien.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_Phieunhap.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_SanPham.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_ThongKe.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_TrangChu.resources
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.GenerateResource.cache
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.CoreCompileInputs.cache
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.CopyComplete
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.exe
+D:\PTTKHTTT\Thương-Hân-Đạt-Báo cáo PTTKHTTT\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.pdb
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.exe.config
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Dashboard.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Form1.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.indonhang.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_DonHang.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_KhachHang.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_NhaCungCap.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_NhanVien.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_Phieunhap.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_SanPham.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_ThongKe.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.UC_control.uc_TrangChu.resources
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.exe
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.pdb
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Report_indonhang.rdlc
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.exe.config
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.exe
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\QLBH_DIEN_TU.pdb
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\EnvDTE.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\stdole.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\EnvDTE80.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\VSLangProj.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\VSLangProj80.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\VSLangProj2.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\EnvDTE.xml
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\EnvDTE80.xml
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\VSLangProj.xml
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\VSLangProj80.xml
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\VSLangProj2.xml
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH_DIEN_TU\obj\Debug\QLBH_DIEN_TU.csproj.CopyComplete
