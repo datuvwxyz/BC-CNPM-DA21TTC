@@ -18,3 +18,4 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
  - Hoàn thành thiết kế giao diện trang nhà cung cấp bằng Figma [x]
  - Hoàn thành thiết kế giao diện trang phiếu nhập bằng Figma [x]
  - Hoàn thành thiết kế giao diện trang sản phẩm bằng Figma [x]
+ - Hoàn thành thiết kế giao diện trang tạo đơn hàng bằng Figma [x]
