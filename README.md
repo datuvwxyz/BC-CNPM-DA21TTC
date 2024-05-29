@@ -21,6 +21,7 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
  - Hoàn thành thiết kế giao diện trang tạo đơn hàng bằng Figma [x]
  - Hoàn thành thiết kế giao diện trang nhân viên bằng Figma [x]
  - Hoàn thành thiết kế giao diện trang thống kê bằng Figma [x]
+ -----------------------------------------------------------------
  - Hoàn thành code logic trang khách hàng [x]
  - Hoàn thành code logic trang nhà cung cấp [x]
  - Hoàn thành code logic trang phiếu nhập [x]
