@@ -25,6 +25,7 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
  - Hoàn thành code logic trang nhà cung cấp [x]
  - Hoàn thành code logic trang phiếu nhập [x]
  - Hoàn thành code logic trang sản phẩm [x]
+ - Hoàn thành code logic trang tạo đơn hàng [x]
    
  
  
