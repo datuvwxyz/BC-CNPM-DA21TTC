@@ -16,3 +16,4 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
 
   - Hoàn thành thiết kế giao diện trang đăng nhập bằng Figma [x]
   - Hoàn thành code logic đăng nhập, đăng xuất [x]
+  - Hoàn thành thiết kế giao diện trang in đơn hàng bằng Figma [x]
