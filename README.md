@@ -30,4 +30,4 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
  - Hoàn thành code logic trang nhân viên [x]
  - Hoàn thành code logic trang thống kê [x]
  -----------------------------------------------------------------
- - Hoàn thành Lấy danh sách phiếu nhập, sản phẩm, khách hàng, đơn hàng, nhân viên, thống kê, nhà cung cấp để import công việc báo bằng file Excel
+ - Hoàn thành Lấy danh sách phiếu nhập, sản phẩm, khách hàng, đơn hàng, nhân viên, thống kê, nhà cung cấp để import công việc báo cáo bằng file Excel
