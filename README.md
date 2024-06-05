@@ -34,6 +34,7 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
       + Thống kê và báo cáo doanh thu bán hàng theo tuần, tháng, năm.
   
     Back-end:
+  
     - Lấy thông tin sản phẩm, khách hàng, nhà cung cấp, đơn hàng và nhân viên.
   
     - Cập nhật thông tin các đơn hàng - thêm, sửa, xóa khách hàng và sản phẩm.
