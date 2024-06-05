@@ -17,6 +17,7 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
  - Hoàn thành thiết kế giao diện trang dashboard bằng Figma [x]
  - Hoàn thành kết nối cơ sở dữ liệu để hiển thị dữ liệu cho các trang [x]
  - Kết nối Data source với Report [x]
+ - Kiểm tra, fix bugs trên toàn bộ ứng dụng [x]
   
 
 
