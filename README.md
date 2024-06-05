@@ -13,24 +13,31 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
 # ỨNG DỤNG - QUẢN LÝ BÁN HÀNG ĐIỆN TỬ 
 <pre>
   Front-end:
-    - Sử dụng kĩ thuật kéo và thả trực quan (Drag and Drop) trên IDE để thiết kế giao diện.
-    - Sử dụng các Event-driven programming để lập trình các sự kiện.
-    - Sử dụng Guna2UI Framework (https://www.nuget.org/packages/Guna.UI2.WinForms/) và .NET Framework.
-    - Sử dụng các thư viện cơ bản như: 
-      + System
-      + System.Collections.Generic
-      + System.ComponentModel
-      + System.Data
-      + System.Data.SqlClient
-      + System.Drawing
-      + System.Linq
-      + System.Text
-      + System.Threading.Tasks
-      + System.Windows.Forms
-      + System.Windows.Forms.VisualStyles.VisualStyleElement
-   Back-end:
-    - Kết nối cơ sở dữ liệu (Data Access Layer - DAL) với SQL.
-    - Thao tác với cơ sở dữ liệu bao gồm việc đọc và cập nhật dữ liệu.
-    - 
+  - Quyền nhân viên: 
+
+      + Trang sản phẩm gồm danh sách các sản phẩm đang bán và tìm kiếm thông tin sản phẩm.
+
+      + Đăng ký thông tin khách hàng và tìm kiếm thông tin khách hàng.
+
+      + Tạo đơn hàng cho khách hàng.
+
+   - Quyền quản lý: 
+
+      + Trang sản phẩm gồm danh sách các sản phẩm đang bán.
+
+      + Nhà cung cấp: quản lý thông tin của các nhà cung cấp sản phẩm.
+
+      + Nhập hàng: quản lý số lượng hàng cần nhập và các thông tin của sản phẩm.
+
+      + Quản lý thông tin chi tiết của nhân viên (tài khoản, mật khẩu).
+
+      + Thống kê và báo cáo doanh thu bán hàng theo tuần, tháng, năm.
+  
+    Back-end:
+    - Lấy thông tin sản phẩm, khách hàng, nhà cung cấp, đơn hàng và nhân viên.
+  
+    - Cập nhật thông tin các đơn hàng - thêm, sửa, xóa khách hàng và sản phẩm.
+  
+    - In hóa đơn cho khách hàng, lấy danh sách thống kê và import các báo cáo bằng Excel.
 </pre>
 
