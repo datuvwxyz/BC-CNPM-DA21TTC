@@ -13,9 +13,24 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
 # ỨNG DỤNG - QUẢN LÝ BÁN HÀNG ĐIỆN TỬ 
 <pre>
   Front-end:
-    - 
-    - Sử dụng framework Guna2UI https://www.nuget.org/packages/Guna.UI2.WinForms/
-
+    - Sử dụng kĩ thuật kéo và thả trực quan (Drag and Drop) trên IDE để thiết kế giao diện.
+    - Sử dụng các Event-driven programming để lập trình các sự kiện.
+    - Sử dụng Guna2UI Framework (https://www.nuget.org/packages/Guna.UI2.WinForms/) và .NET Framework.
+    - Sử dụng các thư viện cơ bản như: 
+      + System
+      + System.Collections.Generic
+      + System.ComponentModel
+      + System.Data
+      + System.Data.SqlClient
+      + System.Drawing
+      + System.Linq
+      + System.Text
+      + System.Threading.Tasks
+      + System.Windows.Forms
+      + System.Windows.Forms.VisualStyles.VisualStyleElement
    Back-end:
+    - Kết nối cơ sở dữ liệu (Data Access Layer - DAL) với SQL.
+    - Thao tác với cơ sở dữ liệu bao gồm việc đọc và cập nhật dữ liệu.
+    - 
 </pre>
 
