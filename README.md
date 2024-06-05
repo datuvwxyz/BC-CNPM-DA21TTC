@@ -13,8 +13,9 @@ https://nguyentinovn.atlassian.net/jira/software/projects/BCCNPM/boards/8/backlo
 # ỨNG DỤNG - QUẢN LÝ BÁN HÀNG ĐIỆN TỬ 
 <pre>
   Front-end:
+    - 
+    - Sử dụng framework Guna2UI https://www.nuget.org/packages/Guna.UI2.WinForms/
 
    Back-end:
-  
 </pre>
 
